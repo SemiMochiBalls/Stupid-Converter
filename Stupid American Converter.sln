@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stupid Converter", "Stupid Converter\Stupid Converter.csproj", "{D8448287-B1AE-4CCE-88B1-9D3EF61536C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui For Stupid Converter", "Gui For Stupid Converter\Gui For Stupid Converter.csproj", "{92AA5CEE-D867-4EE2-9182-80875A1B41B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D8448287-B1AE-4CCE-88B1-9D3EF61536C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8448287-B1AE-4CCE-88B1-9D3EF61536C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8448287-B1AE-4CCE-88B1-9D3EF61536C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AA5CEE-D867-4EE2-9182-80875A1B41B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AA5CEE-D867-4EE2-9182-80875A1B41B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AA5CEE-D867-4EE2-9182-80875A1B41B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AA5CEE-D867-4EE2-9182-80875A1B41B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
